@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name":"Adult"
+    },
+    {
+        "id":2,
+        "name":"Child"
+    },
+    {
+        "id":3,
+        "name":"Teen"
+    }
+]
